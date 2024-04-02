@@ -4,7 +4,7 @@ from math import floor
 expression = input().split()  # [6, 5, 4, 5, +]
 
 idx = 0
-# TODO: debug
+
 functions = {
     "*": lambda i: reduce(lambda a, b: a * b, map(int, expression[:i])),
     "/": lambda i: reduce(lambda a, b: a / b, map(int, expression[:i])),
