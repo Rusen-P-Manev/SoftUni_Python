@@ -10,7 +10,7 @@ for c in range(1, 11):
     print(c, end="")
 print()
 
-for d in range(20, 0, -1):
+for d in range(20, -1, -1):
     print(d, end="")
 print()
 
