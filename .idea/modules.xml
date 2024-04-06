@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../SoftUni/.idea/SoftUni.iml" filepath="$PROJECT_DIR$/../SoftUni/.idea/SoftUni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SoftUni_Python_from_basics_to_advanced.iml" filepath="$PROJECT_DIR$/.idea/SoftUni_Python_from_basics_to_advanced.iml" />
     </modules>
   </component>
 </project>
